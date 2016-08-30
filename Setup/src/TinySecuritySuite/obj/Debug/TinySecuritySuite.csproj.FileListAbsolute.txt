@@ -1,0 +1,9 @@
+D:\EricGoh\OneDrive - SVBook\MyProjects\TinySecuritySuite\TinySecuritySuite\bin\Debug\TinySecuritySuite.exe.config
+D:\EricGoh\OneDrive - SVBook\MyProjects\TinySecuritySuite\TinySecuritySuite\bin\Debug\TinySecuritySuite.exe
+D:\EricGoh\OneDrive - SVBook\MyProjects\TinySecuritySuite\TinySecuritySuite\bin\Debug\TinySecuritySuite.pdb
+D:\EricGoh\OneDrive - SVBook\MyProjects\TinySecuritySuite\TinySecuritySuite\obj\Debug\TinySecuritySuite.csprojResolveAssemblyReference.cache
+D:\EricGoh\OneDrive - SVBook\MyProjects\TinySecuritySuite\TinySecuritySuite\obj\Debug\TinySecuritySuite.AboutForm.resources
+D:\EricGoh\OneDrive - SVBook\MyProjects\TinySecuritySuite\TinySecuritySuite\obj\Debug\TinySecuritySuite.MainForm.resources
+D:\EricGoh\OneDrive - SVBook\MyProjects\TinySecuritySuite\TinySecuritySuite\obj\Debug\TinySecuritySuite.csproj.GenerateResource.Cache
+D:\EricGoh\OneDrive - SVBook\MyProjects\TinySecuritySuite\TinySecuritySuite\obj\Debug\TinySecuritySuite.exe
+D:\EricGoh\OneDrive - SVBook\MyProjects\TinySecuritySuite\TinySecuritySuite\obj\Debug\TinySecuritySuite.pdb

@@ -1,0 +1,8 @@
+D:\EricGoh\OneDrive - SVBook\MyProjects\AESCrypto\AESCrypto\obj\Debug\AESCrypto.csprojResolveAssemblyReference.cache
+D:\EricGoh\OneDrive - SVBook\MyProjects\AESCrypto\AESCrypto\obj\Debug\AESCrypto.MainForm.resources
+D:\EricGoh\OneDrive - SVBook\MyProjects\AESCrypto\AESCrypto\obj\Debug\AESCrypto.csproj.GenerateResource.Cache
+D:\EricGoh\OneDrive - SVBook\MyProjects\AESCrypto\AESCrypto\bin\Debug\AESCrypto.exe.config
+D:\EricGoh\OneDrive - SVBook\MyProjects\AESCrypto\AESCrypto\bin\Debug\AESCrypto.exe
+D:\EricGoh\OneDrive - SVBook\MyProjects\AESCrypto\AESCrypto\bin\Debug\AESCrypto.pdb
+D:\EricGoh\OneDrive - SVBook\MyProjects\AESCrypto\AESCrypto\obj\Debug\AESCrypto.exe
+D:\EricGoh\OneDrive - SVBook\MyProjects\AESCrypto\AESCrypto\obj\Debug\AESCrypto.pdb

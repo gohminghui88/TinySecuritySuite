@@ -1,0 +1,8 @@
+D:\EricGoh\OneDrive - SVBook\MyProjects\SimplyShred\SimplyShred\obj\Debug\SimplyShred.csprojResolveAssemblyReference.cache
+D:\EricGoh\OneDrive - SVBook\MyProjects\SimplyShred\SimplyShred\bin\Debug\SimplyShred.exe.config
+D:\EricGoh\OneDrive - SVBook\MyProjects\SimplyShred\SimplyShred\bin\Debug\SimplyShred.exe
+D:\EricGoh\OneDrive - SVBook\MyProjects\SimplyShred\SimplyShred\bin\Debug\SimplyShred.pdb
+D:\EricGoh\OneDrive - SVBook\MyProjects\SimplyShred\SimplyShred\obj\Debug\SimplyShred.exe
+D:\EricGoh\OneDrive - SVBook\MyProjects\SimplyShred\SimplyShred\obj\Debug\SimplyShred.pdb
+D:\EricGoh\OneDrive - SVBook\MyProjects\SimplyShred\SimplyShred\obj\Debug\SimplyShred.MainForm.resources
+D:\EricGoh\OneDrive - SVBook\MyProjects\SimplyShred\SimplyShred\obj\Debug\SimplyShred.csproj.GenerateResource.Cache
